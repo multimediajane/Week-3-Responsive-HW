@@ -124,8 +124,9 @@ p {
   color: white;
 }
 
-@media screen (max-width 480px) {
+@media (max-width 576px) {
   .primary-link {
-    position: relative;
+    text-align: center;
+    display: block;
   }
 }
