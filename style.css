@@ -123,3 +123,9 @@ p {
   box-shadow: var(--box-shadow);
   color: white;
 }
+
+@media (min-width 600px) {
+  .primary-link {
+    display: block;
+  }
+}
