@@ -126,6 +126,6 @@ p {
 
 @media (max-width 600px) {
   .primary-link {
-    display: block;
+    position: relative;
   }
 }
