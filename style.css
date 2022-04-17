@@ -124,7 +124,7 @@ p {
   color: white;
 }
 
-@media (max-width 800px) {
+@media (max-width 480px) {
   .primary-link {
     position: relative;
   }
